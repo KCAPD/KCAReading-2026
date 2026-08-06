@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#072552" />
+  <title>King's Cross Academy Reading Journey</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Fredoka:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=50" />
+</head>
+<body>
+  <header class="hero" id="top">
+    <nav class="topbar" aria-label="Main navigation">
+      <a class="brand" href="#top">King's Cross Academy Reading Journey</a>
+      <a class="nav-link" href="#library">Explore the books</a>
+    </nav>
+    <div class="campaign-hero">
+      <img class="campaign-image" src="hero-60-by-year-6.png" alt="60 by Year 6, with colourful illustrated books" />
+      <div class="campaign-action">
+        <a class="button primary" href="#library">Start reading</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="how" aria-labelledby="how-title">
+      <p class="eyebrow">Your reading journey</p>
+      <h2 id="how-title">How it works</h2>
+      <div class="steps">
+        <article><span class="number">1</span><div class="icon">📖</div><h3>Read</h3><p>Choose and enjoy a book from your Reading Journal.</p></article>
+        <article><span class="number">2</span><div class="icon">💭</div><h3>Reflect</h3><p>Find the book below and answer the online questions.</p></article>
+        <article><span class="number">3</span><div class="icon">📨</div><h3>Submit</h3><p>Your answers are sent automatically to the Reading Lead.</p></article>
+        <article><span class="number">4</span><div class="icon">⭐</div><h3>Earn</h3><p>The Year 6 Reading Team will issue your sticker after its next meeting.</p></article>
+      </div>
+    </section>
+
+    <section class="library-section" id="library" aria-labelledby="library-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">Explore the books</p><h2 id="library-title">Choose your year group</h2></div>
+        <label class="search"><span>Search books</span><input id="searchInput" type="search" placeholder="Type a title or author…" autocomplete="off"></label>
+      </div>
+      <div id="yearTabs" class="year-tabs" role="tablist" aria-label="Year groups"></div>
+      <p id="resultCount" class="result-count" aria-live="polite"></p>
+      <div id="shelves" class="shelves"></div>
+    </section>
+
+    <section class="reward">
+      <div class="reward-star">★</div>
+      <div><p class="eyebrow">Finished?</p><h2>Brilliant reading!</h2><p>Once you submit your questionnaire, there is nothing else you need to do. Your response will be reviewed and the Year 6 Reading Team will issue your sticker after its next meeting.</p></div>
+    </section>
+  </main>
+
+  <dialog id="bookDialog" class="book-dialog">
+    <button class="close" aria-label="Close">×</button>
+    <div class="dialog-content">
+      <div id="dialogCover" class="large-cover"></div>
+      <div>
+        <p id="dialogYear" class="eyebrow"></p>
+        <h2 id="dialogTitle"></h2><p id="dialogAuthor" class="dialog-author"></p><div id="dialogValues" class="dialog-values"></div>
+        <p>Have you finished reading this book? When you are ready, open the questionnaire and share your thoughts.</p>
+        <a id="quizLink" class="button primary" href="#" target="_blank" rel="noopener">Start questionnaire</a>
+        <p id="comingSoon" class="coming-soon" hidden>Questionnaire coming soon.</p>
+      </div>
+    </div>
+  </dialog>
+
+  <footer><p>King's Cross Academy · KCAreading</p></footer>
+  <script src="books.js?v=50"></script>
+  <script src="script.js?v=50"></script>
+</body>
+</html>
