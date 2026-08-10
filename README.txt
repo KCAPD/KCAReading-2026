@@ -1,6 +1,1 @@
-KCAreading quiz-link update
-
-Replace books.js and index.html in the GitHub repository with these files.
-
-Added questionnaire link for Year 6: The Boy Who Made Big Decisions by Helen Rutter.
-The books.js cache reference has been bumped to v=38.
+Year 6 quiz links added: The Boy Who Made Big Decisions, The Nowhere Emporium, Windrush Child, The Final Year, Storyland. Replace books.js and index.html in the KCAreading repository.
