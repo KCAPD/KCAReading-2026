@@ -86,9 +86,9 @@ window.BOOKS = [
   { year:"Year 6", title:"Windrush Child", author:"Benjamin Zephaniah", wholeClass:true, formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSe8uXOZwyXM-XLkRXhm_tVXqDQTJNuQdyilcR_FU6_5jS5srA/viewform?usp=publish-editor" , cover:"covers/book-73.webp" },
   { year:"Year 6", title:"The Final Year", author:"Matt Goodfellow", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSePCsPdi3hr7s9onMLyr3QNd1mfb1eU_N3idyaUVtOc4XrhgA/viewform?usp=publish-editor" , cover:"covers/book-74.webp" },
   { year:"Year 6", title:"Storyland", author:"Amy Jeffs", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLScLcrTceEoOqohw-lnqZNzqE6vJno-zgw16kIRbkBhBS8P5hw/viewform?usp=publish-editor" , cover:"covers/book-75.webp" },
-  { year:"Year 6", title:"War Is Over", author:"David Almond", wholeClass:true, formUrl:"" , cover:"covers/book-76.webp" },
-  { year:"Year 6", title:"Holes", author:"Louis Sachar", formUrl:"" , cover:"covers/book-77.webp" },
-  { year:"Year 6", title:"The London Eye Mystery", author:"Siobhan Dowd", formUrl:"" , cover:"covers/book-78.webp" },
-  { year:"Year 6", title:"The Viewer", author:"Gary Crew & Shaun Tan", formUrl:"" , cover:"covers/book-79.webp" },
-  { year:"Year 6", title:"The Ice Children", author:"M. G. Leonard", formUrl:"", cover:"covers/book-80.webp" }
+  { year:"Year 6", title:"War Is Over", author:"David Almond", wholeClass:true, formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSf8AcUN6x-srG2WeEfONPOHvEHKrsn4_q65ADuVCg7Z7Mcgpw/viewform?usp=publish-editor" , cover:"covers/book-76.webp" },
+  { year:"Year 6", title:"Holes", author:"Louis Sachar", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLScuvnwSEYqB9ICkQtGw5dLuCO8C16Sf8NEjg7k_DW1mI-tHnQ/viewform?usp=publish-editor" , cover:"covers/book-77.webp" },
+  { year:"Year 6", title:"The London Eye Mystery", author:"Siobhan Dowd", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSdklkm-u1WmBaZZ-Y7uVzKSD4Qwcbu2GblXZIUXjxEBRDomug/viewform?usp=publish-editor" , cover:"covers/book-78.webp" },
+  { year:"Year 6", title:"The Viewer", author:"Gary Crew & Shaun Tan", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSe1SyhKI7J7TG6h1sk3TLp5FAbWVT8AFrq89rx6dDYFRjHYZw/viewform?usp=publish-editor" , cover:"covers/book-79.webp" },
+  { year:"Year 6", title:"The Ice Children", author:"M. G. Leonard", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSdq17PG8DbpNBk85tcjFxe5snVCZzJ0BbxEt9_LiATZx1zTwA/viewform?usp=publish-editor", cover:"covers/book-80.webp" }
 ];

@@ -1,7 +1,13 @@
-KCAreading update
+KCAreading — Year 6 next 5 questionnaire links
 
-Replace these two files in the GitHub repository:
-- styles.css
-- index.html
+Updated:
+- War Is Over — David Almond
+- Holes — Louis Sachar
+- The London Eye Mystery — Siobhan Dowd
+- The Viewer — Gary Crew & Shaun Tan
+- The Ice Children — M. G. Leonard
 
-This fixes the book popup so “Questionnaire coming soon” is hidden whenever a book has a live Google Form link. The five currently linked Year 6 books will therefore show only the questionnaire button.
+This package also retains the existing fix that hides "Questionnaire coming soon"
+when a book has a live questionnaire link.
+
+Replace index.html, books.js and styles.css with these versions.
