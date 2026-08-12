@@ -1,13 +1,12 @@
-KCAreading — Year 6 next 5 questionnaire links
+KCAreading update
 
-Updated:
-- War Is Over — David Almond
-- Holes — Louis Sachar
-- The London Eye Mystery — Siobhan Dowd
-- The Viewer — Gary Crew & Shaun Tan
-- The Ice Children — M. G. Leonard
+Added first five Year 5 questionnaires:
+- The Beast of Buckingham Palace
+- Lunar
+- The Boy in the Tower
+- The Factory Made Boy
+- Edison
 
-This package also retains the existing fix that hides "Questionnaire coming soon"
-when a book has a live questionnaire link.
-
-Replace index.html, books.js and styles.css with these versions.
+All 10 previously supplied Year 6 questionnaire links are retained.
+The 'Questionnaire coming soon' hidden-state fix is retained.
+Replace index.html, books.js and styles.css with these files.

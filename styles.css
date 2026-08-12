@@ -673,6 +673,6 @@
   transform:scale(1.06);
 }
 
-/* Fix: never show questionnaire placeholder when hidden by JavaScript */
-.coming-soon[hidden]{display:none!important;}
-#quizLink[hidden]{display:none!important;}
+
+/* Questionnaire availability fix */
+[hidden]{display:none !important;}
