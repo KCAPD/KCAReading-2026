@@ -676,3 +676,71 @@
 
 /* Questionnaire availability fix */
 [hidden]{display:none !important;}
+
+
+/* ==========================================================
+   Mobile polish — 2026-08
+   1) How it works: 2 cards per row
+   2) Year selector: 4 buttons per row (2 rows total)
+   3) Reward star centred
+   ========================================================== */
+@media (max-width: 620px){
+
+  /* Keep the four journey cards in a tidy 2 × 2 layout. */
+  .steps{
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    gap:14px;
+  }
+
+  .steps article{
+    padding:28px 14px 22px;
+  }
+
+  .steps .icon{
+    font-size:2.5rem;
+  }
+
+  .steps h3{
+    font-size:1.2rem;
+  }
+
+  .steps p{
+    font-size:.92rem;
+    line-height:1.4;
+  }
+
+  /* Eight year groups over exactly two rows. */
+  .year-tabs{
+    display:grid !important;
+    grid-template-columns:repeat(4,minmax(0,1fr));
+    gap:8px;
+    width:100%;
+  }
+
+  .year-tabs button{
+    width:100%;
+    min-width:0;
+    padding:10px 5px;
+    font-size:.78rem;
+    white-space:nowrap;
+  }
+
+  /* Centre the star when the reward panel stacks on mobile. */
+  .reward-star{
+    justify-self:center;
+    text-align:center;
+    line-height:1;
+  }
+
+  .reward{
+    text-align:center;
+  }
+}
+
+@media (max-width: 390px){
+  .year-tabs button{
+    font-size:.72rem;
+    padding-left:3px;
+    padding-right:3px;
+  }
+}
