@@ -16,3 +16,12 @@ Mobile polish update:
 - Year-group selector now displays 4 buttons per row, giving 2 rows.
 - Reward star is centred on phones.
 - Desktop and tablet layouts are unchanged.
+
+Year 5 final five questionnaire links added:
+- Cogheart
+- Stig of the Dump
+- The Firework-Maker's Daughter
+- The Wild Robot
+- Diver's Daughter
+
+books.js cache bumped to v41. Existing mobile polish retained.
