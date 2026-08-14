@@ -25,3 +25,17 @@ Year 5 final five questionnaire links added:
 - Diver's Daughter
 
 books.js cache bumped to v41. Existing mobile polish retained.
+
+Year 4 — all 10 questionnaire links added:
+- Charlie and the Chocolate Factory
+- Charlotte's Web
+- The Butterfly Lion
+- The Wonder Brothers
+- The Land of Roar
+- The Great Chocoplot
+- Count
+- The Hodgeheg
+- The Boy at the Back of the Class
+- The Barnabus Project
+
+books.js cache bumped to v42. All previous Year 5/6 links and mobile polish retained.
