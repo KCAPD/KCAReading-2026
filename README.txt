@@ -39,3 +39,6 @@ Year 4 — all 10 questionnaire links added:
 - The Barnabus Project
 
 books.js cache bumped to v42. All previous Year 5/6 links and mobile polish retained.
+
+Year 3 — all 10 questionnaire links added.
+books.js cache bumped to v43. Existing Year 4–6 links and mobile polish retained.
