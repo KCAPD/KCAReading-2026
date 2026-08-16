@@ -42,3 +42,5 @@ books.js cache bumped to v42. All previous Year 5/6 links and mobile polish reta
 
 Year 3 — all 10 questionnaire links added.
 books.js cache bumped to v43. Existing Year 4–6 links and mobile polish retained.
+
+Nursery: all 10 questionnaire links added; Years 3-6 and mobile polish retained. books.js v44.

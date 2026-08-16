@@ -4,16 +4,16 @@
   Leave formUrl as an empty string to show “Coming soon”.
 */
 window.BOOKS = [
-  { year:"Nursery", title:"Monster Food", author:"Daisy Hirst", wholeClass:true, formUrl:"" , cover:"covers/book-01.webp" },
-  { year:"Nursery", title:"The Rainbow Fish", author:"Marcus Pfister", formUrl:"" , cover:"covers/book-02.webp" },
-  { year:"Nursery", title:"Alphonse, There's Mud on the Ceiling!", author:"Daisy Hirst", formUrl:"" , cover:"covers/book-03.webp" },
-  { year:"Nursery", title:"Zeki Goes to the Park", author:"Anna McQuinn", formUrl:"" , cover:"covers/book-04.webp" },
-  { year:"Nursery", title:"What Happened to You?", author:"James Catchpole", formUrl:"" , cover:"covers/book-05.webp" },
-  { year:"Nursery", title:"We're Going on a Bear Hunt", author:"Michael Rosen", formUrl:"" , cover:"covers/book-06.webp" },
-  { year:"Nursery", title:"Catch!", author:"Trish Cooke", formUrl:"" , cover:"covers/book-07.webp" },
-  { year:"Nursery", title:"Where's Spot?", author:"Eric Hill", formUrl:"" , cover:"covers/book-08.webp" },
-  { year:"Nursery", title:"Dear Zoo", author:"Rod Campbell", formUrl:"" , cover:"covers/book-09.webp" },
-  { year:"Nursery", title:"The Very Hungry Caterpillar", author:"Eric Carle", wholeClass:true, formUrl:"" , cover:"covers/book-10.webp" },
+  { year:"Nursery", title:"Monster Food", author:"Daisy Hirst", wholeClass:true, formUrl:"https://docs.google.com/forms/d/e/1FAIpQLScF7byzqkHTWMdGnlrveRJJRtcWg2xUQCy1o0KJ-4GXwtitSQ/viewform?usp=publish-editor" , cover:"covers/book-01.webp" },
+  { year:"Nursery", title:"The Rainbow Fish", author:"Marcus Pfister", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLScUIVq9AcNVMNf1bJve-5pTN6LlspvT7LGpwQxV5cZbYxIQqQ/viewform?usp=publish-editor" , cover:"covers/book-02.webp" },
+  { year:"Nursery", title:"Alphonse, There's Mud on the Ceiling!", author:"Daisy Hirst", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSchiFVXBQ5S-8ZKuQlnfU3sDaLLjqaAY1FOboIg6d496pIh0A/viewform?usp=publish-editor" , cover:"covers/book-03.webp" },
+  { year:"Nursery", title:"Zeki Goes to the Park", author:"Anna McQuinn", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSfXG0BwyV6F9ph0VKzb5uWZvqcsAPjo98F93RWcwm8Cd0StCw/viewform?usp=publish-editor" , cover:"covers/book-04.webp" },
+  { year:"Nursery", title:"What Happened to You?", author:"James Catchpole", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSeeA7-CZzSc4i98MCmEWLmYJV4g-YLIYYh2k8wi1GWYsOq0Pw/viewform?usp=publish-editor" , cover:"covers/book-05.webp" },
+  { year:"Nursery", title:"We're Going on a Bear Hunt", author:"Michael Rosen", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSfOs0SG3wSRBj4_4_4YdXUNn4RYHLJsPfR-9W3epLN0VyQAqQ/viewform?usp=publish-editor" , cover:"covers/book-06.webp" },
+  { year:"Nursery", title:"Catch!", author:"Trish Cooke", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSdFISDDktPO9z5LEHE1Xb4kclEEhloDNFT4hpdcWuV4_KSmRw/viewform?usp=publish-editor" , cover:"covers/book-07.webp" },
+  { year:"Nursery", title:"Where's Spot?", author:"Eric Hill", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSdgrffTEjYU3lp9T53zRTpEV6FnYqSiotIcoUxOvelYZn9WiQ/viewform?usp=publish-editor" , cover:"covers/book-08.webp" },
+  { year:"Nursery", title:"Dear Zoo", author:"Rod Campbell", formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSf2Lcwb7Sgm5YzC9wfflUi_Co2hbY_hjxAUamy673-G1sUQCg/viewform?usp=publish-editor" , cover:"covers/book-09.webp" },
+  { year:"Nursery", title:"The Very Hungry Caterpillar", author:"Eric Carle", wholeClass:true, formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSd89SM3ofLtmllb3c2aLXJh2HEwWmdbo3Dzrf7GjqXfzxB4ng/viewform?usp=publish-editor" , cover:"covers/book-10.webp" },
 
   { year:"Reception", title:"The Gruffalo", author:"Julia Donaldson", formUrl:"" , cover:"covers/book-11.webp" },
   { year:"Reception", title:"Ready for Spaghetti", author:"Michael Rosen", wholeClass:true, formUrl:"" , cover:"covers/book-12.webp" },
