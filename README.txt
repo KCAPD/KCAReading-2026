@@ -51,3 +51,5 @@ Parent Guidance update:
 - Parent Guidance opens parent-guidance.pdf in a new tab.
 - Included the supplied 10-page parent guidance PDF as parent-guidance.pdf.
 - Existing Nursery and Years 3-6 questionnaire links and mobile polish retained.
+
+Reception: all 10 questionnaire links added. books.js v45. Nursery, Years 3-6, mobile polish, and Parent Guidance retained.
