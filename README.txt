@@ -53,3 +53,5 @@ Parent Guidance update:
 - Existing Nursery and Years 3-6 questionnaire links and mobile polish retained.
 
 Reception: all 10 questionnaire links added. books.js v45. Nursery, Years 3-6, mobile polish, and Parent Guidance retained.
+
+Year 2: all 10 questionnaire links added. books.js cache bumped to v47.
