@@ -44,3 +44,10 @@ Year 3 — all 10 questionnaire links added.
 books.js cache bumped to v43. Existing Year 4–6 links and mobile polish retained.
 
 Nursery: all 10 questionnaire links added; Years 3-6 and mobile polish retained. books.js v44.
+
+Parent Guidance update:
+- Added Parent Guidance beside Start Reading.
+- Both buttons stay side-by-side on mobile.
+- Parent Guidance opens parent-guidance.pdf in a new tab.
+- Included the supplied 10-page parent guidance PDF as parent-guidance.pdf.
+- Existing Nursery and Years 3-6 questionnaire links and mobile polish retained.
